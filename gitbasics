@@ -4,4 +4,6 @@ after installation configure name and email. here .git config file created in ho
     git config --global user.email "b.nandini20@gmail.com"
  git init
  after initialisation .git folder created, which is a hidden file. to be shown, we have to exclude the said folder from hidden folder in file explorer settings.
- 
+ git status check
+ stage changes by command git add file name or .
+ git commit.
