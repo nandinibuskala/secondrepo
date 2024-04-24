@@ -1,7 +1,7 @@
 first install git , git bash and vscode for editing
 after installation configure name and email. here .git config file created in home directory.
     git config --global user.name "rahul"
-    git config --global user.email "rahul.penubala@gmail.com"
+    git config --global user.email "b.nandini20@gmail.com"
  git init- for initiatisation
  after initialisation .git folder created, which is a hidden file. to be shown, we have to exclude the said folder from hidden folder in file explorer settings.
  git status check
