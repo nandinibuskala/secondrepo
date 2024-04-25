@@ -7,3 +7,5 @@ after installation configure name and email. here .git config file created in ho
  git status check
  stage changes by command git add file name or .
  git commit.
+ line 1
+ line 2
